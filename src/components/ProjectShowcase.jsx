@@ -13,7 +13,7 @@ const ProjectShowcase = () => {
       tech: ["React", "axios"],
       link: "#",
       repo: "https://github.com/eliascaif/doctorvet_react",
-      image: "/src/assets/images/Captura de pantalla (641).png"
+      image: "https://imgur.com/a/rHSqSUK"
     },
     {
       title: "Mind Care",
@@ -21,7 +21,7 @@ const ProjectShowcase = () => {
       tech: ["IA", "API Gemini", "React js", "Node js"],
       link: "https://front-mind-care-sz9l.vercel.app/",
       repo: "https://github.com/florenciazoni/front-mind-care",
-      image: "/src/assets/images/Captura de pantalla (648).png"
+      image: "https://imgur.com/a/eIFt2v6"
     },
      {
       title: "Pagina web de Doctor vet",
@@ -29,7 +29,7 @@ const ProjectShowcase = () => {
       tech: ["Boostrap", "HTML5", "CSS", "Figma"],
       link: "https://doctor-vet.netlify.app/",
       repo: "https://github.com/florenciazoni/doctor-vet-app/",
-      image: "/src/assets/images/Captura de pantalla (650).png"
+      image: "https://imgur.com/a/200QsGf"
     }
   ];
 
