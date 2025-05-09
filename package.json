@@ -1,0 +1,50 @@
+{
+  "name": "portfolio-dinamico",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/icons-material": "^7.0.2",
+    "@mui/material": "^7.0.2",
+    "@tailwindcss/vite": "^4.1.4",
+    "@tsparticles/engine": "^3.8.1",
+    "@tsparticles/slim": "^3.8.1",
+    "axios": "^1.8.4",
+    "emailjs-com": "^3.2.0",
+    "framer-motion": "^12.9.2",
+    "motion": "^12.9.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-icons": "^5.5.0",
+    "react-scroll": "^1.9.3",
+    "react-simple-typewriter": "^5.0.1",
+    "react-tech-slider": "^1.8.21",
+    "react-tsparticles": "^2.12.2",
+    "swiper": "^11.2.6",
+    "tsparticles": "^3.8.1",
+    "tsparticles-basic": "^2.12.0",
+    "tsparticles-engine": "^2.12.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.22.0",
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4",
+    "@vitejs/plugin-react-swc": "^3.8.0",
+    "autoprefixer": "^10.4.21",
+    "eslint": "^9.22.0",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.19",
+    "globals": "^16.0.0",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.4",
+    "vite": "^6.3.1"
+  }
+}
