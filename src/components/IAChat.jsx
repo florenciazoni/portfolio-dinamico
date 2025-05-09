@@ -159,7 +159,7 @@ export default function IAChatGemini() {
           fontWeight: 'bold',
           textShadow: `0 0 15px ${modeColors[modo].primary}`
         }}>
-          {modo === "entrevista" ? "🤖 Asistente Profesional" : "💖 Apoyo Emocional"}
+          {modo === "entrevista" ? "🤖 Modo Profesional" : "💖 Apoyo Emocional"}
         </Typography>
         
         <FormControl variant="filled" sx={{ minWidth: 120 }}>
