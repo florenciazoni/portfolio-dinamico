@@ -60,7 +60,7 @@ const Navbar = () => {
           <motion.a
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
-            href="/CV-Florencia-Zoni-act.pdf"
+            href="/cv-florZoni-.pdf"
             download
             className="hidden md:flex items-center gap-2 px-5 py-2 bg-gradient-to-r from-cyan-400/90 to-green-400/90 text-black text-sm font-medium rounded-full hover:shadow-lg transition-all"
           >
